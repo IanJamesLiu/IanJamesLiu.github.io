@@ -69,7 +69,7 @@
     <h2>About the Game</h2>
     <p>
         What Lives Below is a horror exploration game set in an abandoned underground facility.
-        Discover hidden rooms, unravel the mystery, and survive what lives below.
+        Discover secrets, find the keycard, and survive what lives below.
     </p>
 </div>
 
