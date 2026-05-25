@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" href="favicon.png">
 <html lang="en">
 <head>
     <meta charset="UTF-8">
