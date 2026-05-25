@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             background-color: #0d0d0d;
             color: #e6e6e6;
-        }
+        } 
 
         header {
             padding: 60px 20px;
