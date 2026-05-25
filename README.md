@@ -60,7 +60,7 @@
 <body>
 
 <header>
-    <h1>What Lives: Below</h1>
+    <h1>What Lives Below</h1>
     <p class="tagline">A descent into the unknown.</p>
     <a class="button" href="https://o2-studioz.itch.io/what-lives-below-demo" target="_blank">Play the Demo</a>
 </header>
@@ -68,14 +68,14 @@
 <div class="section">
     <h2>About the Game</h2>
     <p>
-        What Lives: Below is a horror exploration game set in an abandoned underground facility.
-        Discover hidden rooms, unravel the mystery, and survive what lurks in the dark.
+        What Lives Below is a horror exploration game set in an abandoned underground facility.
+        Discover hidden rooms, unravel the mystery, and survive what lives below.
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What Lives: Below — Official Site</title>
+    <title>What Lives Below — Official Site</title>
     <style>
         body {
             margin: 0;
@@ -136,8 +136,8 @@
 <div class="section">
     <h2>About the Game</h2>
     <p>
-        What Lives: Below is a horror exploration game set in an abandoned underground facility.
-        Discover hidden rooms, unravel the mystery, and survive what lurks in the dark.
+        What Lives Below is a horror exploration game set in an abandoned underground facility.
+        Discover hidden rooms, unravel the mystery, and survive what lives below.
     </p>
 </div>
 
