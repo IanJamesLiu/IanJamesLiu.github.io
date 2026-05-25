@@ -58,7 +58,7 @@
 <header>
     <h1>What Lives: Below</h1>
     <p class="tagline">A descent into the unknown.</p>
-    <a class="button" href="https://itch.io" target="_blank">Play the Demo</a>
+    <a class="button" href="https://o2-studioz.itch.io/what-lives-below-demo" target="_blank">Play the Demo</a>
 </header>
 
 <div class="section">
@@ -74,7 +74,7 @@
     <p>Stay updated with new builds, devlogs, and behind‑the‑scenes content.</p>
     <ul>
         <li><a href="https://youtube.com" target="_blank">YouTube Channel</a></li>
-        <li><a href="https://itch.io" target="_blank">Itch.io Page</a></li>
+        <li><a href="https://o2-studioz.itch.io/what-lives-below-demo" target="_blank">Itch.io Page</a></li>
     </ul>
 </div>
 
