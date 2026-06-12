@@ -77,7 +77,7 @@
     <h2>Follow Development</h2>
     <p>Stay updated with new builds, devlogs, and behind‑the‑scenes content.</p>
     <ul>
-        <li><a href="https://youtube.com" target="_blank">YouTube Channel</a></li>
+        <li><a href="https://www.youtube.com/@O2Studios-y2q/" target="_blank">YouTube Channel</a></li>
         <li><a href="https://o2-studioz.itch.io/" target="_blank">Itch.io Profile</a></li>
         <li><a href="https://o2-studioz.itch.io/channel" target="_blank">Itch.io Channel</a></li>
         <li><a href="https://o2-studioz.itch.io/what-lives-below-demo" target="_blank">Game Page</a></li>
